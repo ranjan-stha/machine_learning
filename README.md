@@ -1,4 +1,4 @@
-# machine_learning
+# Implementation of basic ML Classifiers
 Implementation of ML Classification algorithms
 
 This repository contains the implementation of varioud ML Classification algorithms along with the elements required to do the performance evaluaion such as Accuracy, Precision, Recall, F1-Score, ROC and AUC.
