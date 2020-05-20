@@ -9,8 +9,8 @@ For the Feedforward Neural Network, the MNIST digit classifier is implemented us
 
 Note: If you are not able to view the jupyter python notebook in the github itself, you can copy-paste the link in https://nbviewer.jupyter.org
 
-The implementation of the classifiers are based on freely available datasets
-kNN - iris dataset
-ANN - MNIST digit (0-9) dataset
-Decision Trees - Breast Cancer dataset
-Naive Bayes - Play golf dataset (available in the repository)
+The implementation of the classifiers are based on freely available datasets <br>
+kNN - iris dataset <br>
+ANN - MNIST digit (0-9) dataset <br>
+Decision Trees - Breast Cancer dataset <br>
+Naive Bayes - Play golf dataset (available in the repository) <br>
