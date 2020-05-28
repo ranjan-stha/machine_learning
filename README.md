@@ -15,3 +15,4 @@ ANN - MNIST digit (0-9) dataset <br>
 Decision Trees - Breast Cancer dataset <br>
 Naive Bayes - Play golf dataset (available in the repository) <br>
 KMeans & Hierarchial - Mall Customers dataset <br>
+PCA - Breast Cancer dataset <br>
