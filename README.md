@@ -14,4 +14,4 @@ kNN - iris dataset <br>
 ANN - MNIST digit (0-9) dataset <br>
 Decision Trees - Breast Cancer dataset <br>
 Naive Bayes - Play golf dataset (available in the repository) <br>
-KMeans - Mall Customers dataset <br>
+KMeans & Hierarchial - Mall Customers dataset <br>
